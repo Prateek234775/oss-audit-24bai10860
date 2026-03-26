@@ -2,7 +2,7 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Prsteek kumar kuntal
+Name: Prateek kumar kuntal
 Roll Number: 24bai10860 
 
 ## Chosen Software
@@ -28,5 +28,11 @@ Generates open source manifesto.
 ## How to Run
 
 ```bash
-chmod +x script1.sh
+chmod +x *.sh
+
 ./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh /var/log/syslog error
+./script5.sh
+Note: script4.sh requires a valid log file path like /var/log/syslog
